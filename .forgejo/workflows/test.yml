@@ -4,7 +4,7 @@ jobs:
       - name: "test1"
         uses: https://github.com/actions/setup-node@56337c425554a6be30cdef71bf441f15be286854 # tag=v3.1.1
       - name: "test2"
-        uses: https://code.forgejo.org/actions/setup-node@56337c425554a6be30cdef71bf441f15be286854 # v3.1.1
+        uses: https://code.forgejo.org/actions/setup-node@1a4442cacd436585916779262731d5b162bc6ec7 # v3.8.2
       - name: "test3"
         uses: https://code.domain.test/actions/setup-node@56337c425554a6be30cdef71bf441f15be286854 # v3.1.1
       - name: "test4"
